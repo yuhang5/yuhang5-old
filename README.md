@@ -1,5 +1,9 @@
 # yuhang5-FeelsBook
 Assignment1
+Let user send moods and save them with time. User can add, edit and delete comments. When the mood was chossed, the counts will increase, when it is deleted, the counts will decrease.
+
+
+Reference:
 The description of Cursor’s moveToFirst and moveToNext:
 https://blog.csdn.net/duanyipeng/article/details/7024897
 Guild of the making and using of Database:
