@@ -1,6 +1,18 @@
 # yuhang5-FeelsBook
-Assignment1
+
+
+Assignment1：
 Let user send moods and save them with time. User can add, edit and delete comments. When the mood was chossed, the counts will increase, when it is deleted, the counts will decrease.
+
+
+
+
+
+Video and UML
+Both are in the docs directory
+
+
+
 
 
 Reference:
